@@ -5,7 +5,7 @@
 [Índice](#índice)
 
 - [Descripción del proyecto](#descripción-del-proyecto)
-- [Funcionalidad y Demostración de la aplicación](#funcionalidad-y-demostracion-de-la-aplicación)
+- [Funcionalidad y Demostración de la aplicación](#funcionalidad-y-demostración-de-la-aplicación)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Developer del Projecto](#developer-del-projecto)
 
@@ -21,7 +21,9 @@ Con una interfaz sencilla y amigable, la herramienta permite seleccionar la mone
 
 
 
+
 ## Funcionalidad y Demostración de la aplicación
+
 
 
 `Funcionalidad 1 `: Conversión en tiempo real, la aplicación accede a fuentes confiables de datos para obtener los tipos de cambio más recientes, garantizando precisión en cada conversión.
