@@ -4,11 +4,10 @@
  
 [Índice](#índice)
 
-- [Descripción del proyecto](#descripcion-del-proyecto)
-- [Funcionalidades y Demostración de la aplicación](#funcionalidad-y-demostracion-de-la-aplicacion)
+- [Descripción del proyecto](#descripción-del-proyecto)
+- [Funcionalidad y Demostración de la aplicación](#funcionalidad-y-demostracion-de-la-aplicación)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Developer del Projecto](#persona-desembolvedora)
-- [Conclusão](#conclusão)
+- [Developer del Projecto](#developer-del-projecto)
 
   
 
@@ -22,7 +21,7 @@ Con una interfaz sencilla y amigable, la herramienta permite seleccionar la mone
 
 
 
-## Funcionalidades y Demostración de la aplicación
+## Funcionalidad y Demostración de la aplicación
 
 
 `Funcionalidad 1 `: Conversión en tiempo real, la aplicación accede a fuentes confiables de datos para obtener los tipos de cambio más recientes, garantizando precisión en cada conversión.
